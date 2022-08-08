@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**asteve12/asteve12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m interested in build frontend and application and fullstack Dapp Applications
@@ -20,8 +16,4 @@ Here are some ideas to get you started:
 <li>email:akinfolarinstephen8@gmail.com</li>
 <li> Fun fact: This user loves challenges</li>
 <ul>
-
-
-
--->
 <img src="https://github-readme-stats.vercel.app/api?username=asteve12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img>
