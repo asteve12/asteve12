@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+
 
 - 🔭 I’m interested in build frontend  application and fullstack Dapp Applications
 - 👯 I’m  currently working on building frontend Application using react and integration of smart contract
